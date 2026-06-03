@@ -11,13 +11,13 @@ import { useReveal } from "@/hooks/use-reveal";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Aurelian — Bespoke Curtain Design & Handloom Decor" },
+      { title: "VIJAYDRAPE — Bespoke Curtain Design & Handloom Decor" },
       {
         name: "description",
         content:
-          "Aurelian crafts custom curtains, handloom drapes and luxury window treatments for homes and offices. Premium fabrics, white-glove installation.",
+          "VIJAYDRAPE crafts custom curtains, handloom drapes and luxury window treatments for homes and offices. Premium fabrics, white-glove installation.",
       },
-      { property: "og:title", content: "Aurelian — Bespoke Curtain Design & Handloom Decor" },
+      { property: "og:title", content: "VIJAYDRAPE — Bespoke Curtain Design & Handloom Decor" },
       {
         property: "og:description",
         content:
@@ -33,7 +33,7 @@ export const Route = createFileRoute("/")({
         children: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
-          name: "Aurelian Drapes & Decor",
+          name: "VIJAYDRAPE Drapes & Decor",
           description:
             "Bespoke curtain design and handloom decor for residences and offices.",
           telephone: "+1-555-987-6543",

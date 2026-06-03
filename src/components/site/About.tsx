@@ -19,7 +19,7 @@ export function About() {
             Texture Since 1994
           </h2>
           <p className="text-brown/70 leading-relaxed font-light max-w-md">
-            At Aurelian, we believe curtains are the soul of a room. Our designers blend premium fabrics with
+            At VIJAYDRAPE, we believe curtains are the soul of a room. Our designers blend premium fabrics with
             handloom traditions to create window treatments that transform architecture into atmosphere.
           </p>
           <ul className="space-y-4 text-sm font-medium border-l border-gold/40 pl-6">
@@ -40,7 +40,7 @@ export function About() {
             />
             <div className="absolute bottom-6 left-6 right-6 bg-cream/95 backdrop-blur-sm p-6 shadow-luxe">
               <div className="text-[10px] uppercase tracking-[0.3em] text-gold font-bold">Signature</div>
-              <div className="font-display text-xl mt-1">Aurelian Linen No. 04</div>
+              <div className="font-display text-xl mt-1">VIJAYDRAPE Linen No. 04</div>
             </div>
           </div>
         </div>

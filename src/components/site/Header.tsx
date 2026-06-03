@@ -46,7 +46,7 @@ export function Header() {
         </button>
 
         <a href="#home" className="text-right block">
-          <div className="text-xl font-display font-bold tracking-tight text-brown">AURELIAN</div>
+          <div className="text-xl font-display font-bold tracking-tight text-brown">VIJAYDRAPE</div>
           <div className="text-[8px] uppercase tracking-[0.4em] text-gold -mt-1">Drapes &amp; Decor</div>
         </a>
       </div>

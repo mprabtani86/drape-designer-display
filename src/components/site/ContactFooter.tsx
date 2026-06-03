@@ -56,7 +56,7 @@ export function ContactFooter() {
           <div>
             <h3 className="text-gold text-xs uppercase tracking-[0.3em] mb-5 font-bold">Our Studio</h3>
             <p className="text-cream/70 font-light leading-loose text-sm">
-              Aurelian Design House
+              VIJAYDRAPE Design House
               <br />
               42 Velvet Boulevard, Suite 500
               <br />
@@ -72,13 +72,13 @@ export function ContactFooter() {
               Phone: +1 (555) 987-6543
             </a>
             <a href="mailto:studio@aurelian.com" className="hover:text-gold transition-colors">
-              Email: studio@aurelian.com
+              Email: studio@vijaydrape.com
             </a>
           </div>
 
           <div className="w-full h-64 border border-cream/10 overflow-hidden">
             <iframe
-              title="Aurelian Studio location"
+              title="VIJAYDRAPE Studio location"
               src="https://www.openstreetmap.org/export/embed.html?bbox=-74.0060%2C40.7128%2C-73.9960%2C40.7228&layer=mapnik"
               className="w-full h-full grayscale opacity-80"
               loading="lazy"
@@ -90,7 +90,7 @@ export function ContactFooter() {
       <div className="border-t border-cream/10">
         <div className="max-w-7xl mx-auto px-6 py-16 grid grid-cols-2 md:grid-cols-4 gap-10">
           <div className="col-span-2">
-            <div className="font-display font-bold text-2xl">AURELIAN</div>
+            <div className="font-display font-bold text-2xl">VIJAYDRAPE</div>
             <div className="text-[9px] uppercase tracking-[0.4em] text-gold mt-1">Drapes &amp; Decor</div>
             <p className="mt-6 text-sm text-cream/60 max-w-xs font-light leading-relaxed">
               Bespoke curtain design and handloom decor for residences and offices since 1994.
@@ -122,7 +122,7 @@ export function ContactFooter() {
               <a href="#" className="hover:text-cream transition-colors">Privacy Policy</a>
               <a href="#" className="hover:text-cream transition-colors">Terms &amp; Conditions</a>
             </div>
-            <div className="text-center">&copy; {new Date().getFullYear()} Aurelian Drapes &amp; Decor.</div>
+            <div className="text-center">&copy; {new Date().getFullYear()} VIJAYDRAPE Drapes &amp; Decor.</div>
             <div className="flex gap-6">
               <a href="#" className="hover:text-gold transition-colors">Instagram</a>
               <a href="#" className="hover:text-gold transition-colors">Pinterest</a>
